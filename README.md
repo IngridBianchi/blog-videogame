@@ -4,7 +4,7 @@ Este es un proyecto de un blog de videojuegos desarrollado en PHP con MySQL como
 
 ## Vista previa
 
-![Vista previa del Blog](assets/img/Screenshot.png)
+![Vista previa del Blog](assets/img/Screenshots.png)
 
 ## Características
 
